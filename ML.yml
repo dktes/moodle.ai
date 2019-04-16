@@ -1,4 +1,4 @@
-name: AI
+name: ML
 channels:
 - defaults
 dependencies:
@@ -121,5 +121,5 @@ dependencies:
 - yaml=0.1.7=hc54c509_2
 - zeromq=4.3.1=h33f27b4_3
 - zlib=1.2.11=h62dcd97_3
-prefix: C:\Users\Admin\AppData\Local\conda\conda\envs\AI
+prefix: C:\Users\Admin\AppData\Local\conda\conda\envs\ML
 
