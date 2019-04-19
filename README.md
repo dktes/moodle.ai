@@ -6,18 +6,20 @@ Thanks to open source community for providing awesome content on internet. Noteb
 A. Learn the basics of Jupyter Notebook here:- 
 [Jupyter Basics](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html)
 
-B . To try out Notebooks in Google Colab click here:-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dktes/moodle.ai/)
+B. More information about using colaboratory here:-  [Using Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+
+C . To try out Notebooks in Google Colab click here:-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dktes/moodle.ai/)
   1. This is the best method to access our resources without having the hectic of installation of packages
   2. Google Colab provides free GPU/TPU instance
   3. Your selected notebook is first opened in playground mode where you can play with code written by us. And when you reopen the notebook changes won't be persistent.
-  4. To make persistent changes or have a copy of notebook save it to your drive you can get more information about using colaboratory here:-  [Using Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+  4. To make persistent changes save a copy of notebook save it to your drive.
 
-C. To try out Notebooks in Microsoft Azure click here:-   [![Open in Azure](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dktescse/projects/moodle-ai)
+D. To try out Notebooks in Microsoft Azure click here:-   [![Open in Azure](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dktescse/projects/moodle-ai)
   1. Another option for google colab
   2. You need to have sign up first to play with notebooks.
   3. Unless you clone the notebooks you cannot execute the code.
 
-D. To create similar environment on your local machine:-
+E. To create similar environment on your local machine:-
 
  <b> 1. Windows Users:</b><br>
     (Uninstall any previous python installations to prevent conflicts)<br>
