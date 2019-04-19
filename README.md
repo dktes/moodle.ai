@@ -1,6 +1,7 @@
 # moodle.ai
 DKTES one stop for Machine Learning resources of Python, ML, DL resources and more...
 Thanks to open source community for providing awesome content on internet. Notebooks are prepared using online references gathered from appliedai, Corey Schefar, StatQuest, medium blogs, etc.
+OK
 
 # Usage:
 A. Learn the basics of Jupyter Notebook here:- 
