@@ -32,15 +32,22 @@ E. To create similar environment on your local machine:-
   
   <b>2. Linux/macOS Users:</b><br>
     Step 1: is to download and install Miniconda according to the operating system in use. It is a sh file. Open the Terminal application and enter the command to execute the sh file, such as<br>
- `# The file name is subject to change, always use the one downloaded from the Miniconda website
-  sh Miniconda3-latest-Linux-x86_64.sh`<br><br>
+ `# The file name is subject to change, always use the one downloaded from the Miniconda website`<br>
+ 
+  `sh Miniconda3-latest-Linux-x86_64.sh`
+  
   The terms of use will be displayed during installation. Press “↓” to continue reading, press “Q” to exit reading. After that, answer the following questions:<br>
-`Do you accept the license terms? [yes|no]
-[no] >>> yes
-Do you wish the installer to prepend the Miniconda3 install location
-to PATH in your /home/your_name/your_file ? [yes|no]
-[no] >>> yes`<br><br>
-After the installation is complete, conda should be made to take effect. Linux users need to run source ~/.bashrc or restart the command line application; macOS users need to run source ~/.bash_profile or restart the command line application.
+`Do you accept the license terms? [yes|no]`
+
+`[no] >>> yes`
+
+`Do you wish the installer to prepend the Miniconda3 install location`
+
+`to PATH in your /home/your_name/your_file ? [yes|no]`
+
+`[no] >>> yes`
+
+After the installation is complete, conda should be made to take effect. Linux users need to run `source ~/.bashrc` or restart the command line application; macOS users need to run `source ~/.bash_profile` or restart the command line application.
 <br><br>
 Step 2: refer to the such steps for Windows users as described earlier. If the conda version is lower than 4.4, replace the command in Step 3 with `source activate ML` and exit the virtual environment using the command `source deactivate`.<br><br>
       
